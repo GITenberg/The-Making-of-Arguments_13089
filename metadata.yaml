@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4826'
     url: http://www.gutenberg.org/2009/agents/4826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13089#The-Making-of-Arguments
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
